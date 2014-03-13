@@ -1,5 +1,5 @@
 #include<stdio.h>
 main()
 {
-	printf("hello VCS world")
+	printf("hello VCS world");
 }
